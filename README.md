@@ -1,0 +1,3 @@
+# NoteTaker
+
+Initial Readme
